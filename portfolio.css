@@ -1,1 +1,18 @@
 //css style sheet for documentation.html
+//.box{display: flex; flex-direction: columns; justify-content: center; width:100vw; height:100vw;align-content:center; 
+           flex-wrap:wrap;}
+#welcome-section{background-color:grey;width:80vw; height:100vh; text-align: center; margin-left:5rem; margin-top:2.5rem; padding:1rem;}
+#projects{background-color:darkgreen;}
+
+#profile-image {border-style:solid; border-color:white;border-width:2px; border-radius:25%; position:center;width:10rem;height:10rem;}
+
+#navbar {display: flex;flex-direction: rows; justify-items: center; width:100vw;}
+.box{display: flex; flex-direction: columns; justify-content: center; width:80vw; height:100vh; margin-left:5rem; padding:1rem;
+           flex-wrap:wrap;}
+
+:root{
+    font-size:20px;
+    background-color:black;
+    color:white;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
