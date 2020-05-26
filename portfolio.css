@@ -1,15 +1,13 @@
 //css style sheet for documentation.html
-//.box{display: flex; flex-direction: columns; justify-content: center; width:100vw; height:100vw;align-content:center; 
-           flex-wrap:wrap;}
-#welcome-section{background-color:grey;width:80vw; height:100vh; text-align: center; margin-left:5rem; margin-top:2.5rem; padding:1rem;}
-#projects{background-color:darkgreen;}
+//#welcome-section{background-color:grey;width:80vw; height:100vh; text-align: center; margin-left:5rem; margin-top:2.5rem; padding:1rem;}
+#projects{background-color:#474646;}
 
 #profile-image {border-style:solid; border-color:white;border-width:2px; border-radius:25%; position:center;width:10rem;height:10rem;}
 
-#navbar {display: flex;flex-direction: rows; justify-items: center; width:100vw;}
-.box{display: flex; flex-direction: columns; justify-content: center; width:80vw; height:100vh; margin-left:5rem; padding:1rem;
-           flex-wrap:wrap;}
-
+#navbar {display: flex;flex-direction: rows; justify-items: center; width:80vw;}
+.box{text-align:center; width:80vw;; margin-left:5rem; padding:1rem;}
+.project-size{height:30rem; width: 30rem;border-style:solid; border-color:white;border-width:1px}
+#welcome-section{background-color:grey;width:80vw; height:100vh; text-align: center; margin-left:5rem; margin-top:2.5rem; padding:1rem;}
 :root{
     font-size:20px;
     background-color:black;
